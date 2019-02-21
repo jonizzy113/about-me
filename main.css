@@ -1,0 +1,11 @@
+.name {
+    border: 1px dashed black;
+}
+
+.date {
+    font: italic;
+}
+
+.place {
+    background-color: #FF7F50;
+}
